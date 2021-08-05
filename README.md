@@ -6,11 +6,6 @@
 
 [Crypto API](https://www.cryptocompare.com/)
 
-- Login: alko_sinoptik@list.ru
-- Password: MaKeType87@!
-
-
-
 | Login | Password |
 | --- | --- |
 | alko_sinoptik@list.ru |  MaKeType87@! |
